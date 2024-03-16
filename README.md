@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @bhavsarhem<br>- 👀 I’m interested in AI tech.<br>- 🌱 i know python programming and I’m currently learning Kotlin<br>- 💞️ I’m looking to collaborate on AI,ML,Data Science with python,Data Analysis with python <br>- 📫 This is my LinkedIn profile : https://www.linkedin.com/in/hem-bhavsar-b93197226<br><br><br><br>
+- 👋 Hi, I’m @bhavsarhem<br>- 👀 I’m interested in AI tech.<br>- 🌱 i know python programming and I’m currently learning Kotlin<br>- 💞️ I’m looking to collaborate on AI,ML,Data Science with python,Data Analysis with python <br>- 📫 This is my LinkedIn profile : https://www.linkedin.com/in/hem-bhavsar-a113852aa<br><br><br><br>
 
 
 ## 🌐 Socials:
